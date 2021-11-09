@@ -4,3 +4,5 @@ My to do list
 2. code
 3. Study books
 4. listen podcast
+5. practice code
+6. attend class on time

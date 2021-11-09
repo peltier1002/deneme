@@ -1,8 +1,10 @@
 My to do list
 
-1. Write an article
-2. code
-3. Study books
-4. listen podcast
-5. practice code
-6. attend class on time
+1. Write an article.
+2. code.
+3. Study books.
+4. listen podcast.
+5. practice code.
+6. attend class on time.
+7. complete internship task.
+8. prepare lunch
